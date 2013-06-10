@@ -1,0 +1,13 @@
+/* 
+    Document   : style
+    Created on : 10 juin 2013, 12:43:27
+    Author     : regisg
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+body {padding-top: 10px;}
+.bloc {min-height: 40px;margin-top: 20px;}
+.red {background-color: red;}
+.blue {background-color: blue;}
+
